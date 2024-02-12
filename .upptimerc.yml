@@ -3,11 +3,18 @@ owner: valicek1
 repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: IPv6 test
+  - name: "[SW3] Flákač"
+    url: https://flakac.sw3.cz
+  - name: "[SW3] Hppro"
+    url: https://hppro.sw3.cz
+  - name: "[SW3] Ispconfig"
+    url: https://config.sw3.cz
+  - name: "[SW3] Kripl"
+    url: https://kripl.sw3.cz
+  - name: "[SW3] Lemra"
+    url: https://lemra.sw3.cz
+
+  - name: Test_W520
     url: bkp-w520.duckdns.org
     port: 22
     check: "tcp-ping"
