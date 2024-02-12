@@ -40,8 +40,6 @@ sites:
   - name: "[STORJ] kripl:storage500"
     check: "tcp-ping"
     url: kripl.sw3.cz
-    port:     check: "tcp-ping"
-    url: kripl.sw3.cz
     port: 28968
 
   - name: "[STORJ] kripl:storage800"
