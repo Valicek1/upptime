@@ -32,6 +32,33 @@ sites:
     port: 8080
     ipv6: true
 
+  - name: "[STORJ] kripl:storageBlb"
+    check: "tcp-ping"
+    url: kripl.sw3.cz
+    port: 28969
+
+  - name: "[STORJ] kripl:storage500"
+    check: "tcp-ping"
+    url: kripl.sw3.cz
+    port:     check: "tcp-ping"
+    url: kripl.sw3.cz
+    port: 28968
+
+  - name: "[STORJ] kripl:storage800"
+    check: "tcp-ping"
+    url: kripl.sw3.cz
+    port: 28967 
+
+  - name: "[STORJ] zmetek:storagenode1"
+    check: "tcp-ping"
+    url: zmetek.sw3.cz
+    port: 28967
+
+  - name: "[STORJ] zmetek:storagenode2"
+    check: "tcp-ping"
+    url: zmetek.sw3.cz
+    port: 28968
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
