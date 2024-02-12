@@ -137,19 +137,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sw-3-trpaslik",
     "status": "up",
-    "uptime": "44.94%",
-    "uptimeDay": "44.94%",
-    "uptimeWeek": "44.94%",
-    "uptimeMonth": "44.94%",
-    "uptimeYear": "44.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 303,
     "timeWeek": 303,
     "timeMonth": 303,
     "timeYear": 303,
-    "dailyMinutesDown": {
-      "2024-02-12": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[SW3] Zmetak",
