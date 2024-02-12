@@ -17,6 +17,10 @@ sites:
     url: https://lemradns.sw3.cz
   - name: "[SW3] Šmírák"
     url: https://smirak.sw3.cz
+  - name: "[SW3] Trpaslík"
+    url: trpaslik.sw3.cz
+    port: 8728
+    check: "tcp-ping"
   - name: "[SW3] Zmetak"
     url: https://zmetek.sw3.cz
 
