@@ -20,6 +20,12 @@ sites:
   - name: "[SW3] Zmetak"
     url: https://zmetek.sw3.cz
 
+  - name: "[SW3] Nextcloud"
+    url: https://cloud.sw3.cz
+  - name: "[SW3] HASS"
+    url: https://ha.sw3.cz
+  - name: "[SW3] ha-ovalenta"
+    url: https://ovalenta.sw3.cz
 
   - name: Test_W520
     url: bkp-w520.duckdns.org
