@@ -10,7 +10,7 @@ sites:
   - name: "[SW3] Ispconfig"
     url: https://config.sw3.cz
   - name: "[SW3] Kripl"
-    url: https://kripl.sw3.cz
+    url: https://kripl.sw3.cz/test.html
   - name: "[SW3] Lemra"
     url: https://lemra.sw3.cz
 
