@@ -13,6 +13,13 @@ sites:
     url: https://kripl.sw3.cz/test.html
   - name: "[SW3] Lemra"
     url: https://lemra.sw3.cz
+  - name: "[SW3] LemraDNS"
+    url: https://lemradns.sw3.cz
+  - name: "[SW3] Šmírák"
+    url: https://smirak.sw3.cz
+  - name: "[SW3] Zmetak"
+    url: https://zmetek.sw3.cz
+
 
   - name: Test_W520
     url: bkp-w520.duckdns.org
@@ -26,11 +33,11 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** of sw3.cz / ycnet.cz"
+  introMessage: HTTP/s uptime monitor
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
