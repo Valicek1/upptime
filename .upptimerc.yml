@@ -16,8 +16,7 @@ sites:
 
   - name: Test_W520
     url: bkp-w520.duckdns.org
-    port: 22
-    check: "tcp-ping"
+    port: 8080
     ipv6: true
 
 status-website:
