@@ -1,7 +1,7 @@
 url: https://lemradns.sw3.cz
-status: up
-code: 200
-responseTime: 5175
-lastUpdated: 2024-02-13T23:16:30.236Z
+status: down
+code: 502
+responseTime: 801
+lastUpdated: 2024-02-13T23:51:38.355Z
 startTime: 2024-02-12T09:19:15.278Z
 generator: Upptime <https://github.com/upptime/upptime>
