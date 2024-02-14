@@ -4,7 +4,7 @@ repo: upptime
 
 sites:
   - name: "[SERV] Uptime Kuma"
-    url: https://kuma.sw3.cz_
+    url: https://kuma.sw3.cz
 
   - name: "[SW3] Flákač"
     url: https://flakac.sw3.cz
