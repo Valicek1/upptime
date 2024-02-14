@@ -37,7 +37,7 @@ sites:
   - name: "[YC] nemehlo"
     check: "tcp-ping"
     url: nemehlo.ycnet.cz
-    port: 22
+    port: 23
 
   - name: Test_W520
     url: bkp-w520.duckdns.org
