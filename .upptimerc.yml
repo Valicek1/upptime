@@ -34,6 +34,11 @@ sites:
   - name: "[SW3] ha-ovalenta"
     url: https://ovalenta.sw3.cz
 
+  - name: "[YC] nemehlo"
+    check: "tcp-ping"
+    url: nemehlo.ycnet.cz
+    port: 22
+
   - name: Test_W520
     url: bkp-w520.duckdns.org
     port: 8080
