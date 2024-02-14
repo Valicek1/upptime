@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kuma.sw3.cz.ico",
     "slug": "serv-uptime-kuma",
     "status": "up",
-    "uptime": "3.22%",
-    "uptimeDay": "3.22%",
-    "uptimeWeek": "3.22%",
-    "uptimeMonth": "3.22%",
-    "uptimeYear": "3.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1147,
     "timeDay": 1147,
     "timeWeek": 1147,
     "timeMonth": 1147,
     "timeYear": 1147,
-    "dailyMinutesDown": {
-      "2024-02-14": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[SW3] Flákač",
