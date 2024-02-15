@@ -34,6 +34,11 @@ sites:
   - name: "[SW3] ha-ovalenta"
     url: https://ovalenta.sw3.cz
 
+  - name: "[YC] blb"
+    check: "tcp-ping"
+    url: blb.ycnet.cz
+    port: 22
+
   - name: "[YC] nemehlo"
     check: "tcp-ping"
     url: nemehlo.ycnet.cz
