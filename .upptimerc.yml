@@ -5,6 +5,24 @@ repo: upptime
 sites:
   - name: "[SERV] Uptime Kuma"
     url: https://kuma.sw3.cz
+  - name: "[SERV] Radio"
+    url: https://radio.nothinghere.ga/
+
+  - name: "[SERV] munin"
+    url: https://munin.ycnet.cz
+    headers:
+     - "Authorization: Basic $HEADER_UPTIME_BASIC"
+
+  - name: "[SERV] mrtg"
+    url: https://mrtg.ycnet.cz
+    headers:
+     - "Authorization: Basic $HEADER_UPTIME_BASIC"
+
+  - name: "[SERV] smokeping"
+    url: https://smokeping.ycnet.cz
+    headers:
+     - "Authorization: Basic $HEADER_UPTIME_BASIC"
+
 
   - name: "[SW3] Flákač"
     url: https://flakac.sw3.cz
