@@ -42,7 +42,7 @@ sites:
   - name: "[YC] Blekota"
     check: "tcp-ping"
     url: blekota.ycnet.cz
-    port: 23
+    port: 22
 
   - name: "[YC] Nemehlo"
     check: "tcp-ping"
