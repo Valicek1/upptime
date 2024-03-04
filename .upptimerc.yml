@@ -52,11 +52,6 @@ sites:
   - name: "[SW3] ha-ovalenta"
     url: https://ovalenta.sw3.cz
 
-  - name: "[YC] Blb"
-    check: "tcp-ping"
-    url: blb.ycnet.cz
-    port: 22
-
   - name: "[YC] Blekota"
     check: "tcp-ping"
     url: blekota.ycnet.cz
