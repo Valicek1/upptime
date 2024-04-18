@@ -26,11 +26,11 @@
     "url": "https://radio.nothinghere.ga/",
     "icon": "https://icons.duckduckgo.com/ip3/radio.nothinghere.ga.ico",
     "slug": "serv-radio",
-    "status": "up",
+    "status": "down",
     "uptime": "96.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "96.14%",
     "time": 1021,
     "timeDay": 775,
@@ -38,6 +38,7 @@
     "timeMonth": 1056,
     "timeYear": 1021,
     "dailyMinutesDown": {
+      "2024-04-18": 2,
       "2024-04-14": 27,
       "2024-04-04": 317,
       "2024-04-03": 132,
@@ -51,10 +52,10 @@
     "url": "https://munin.ycnet.cz",
     "icon": "https://icons.duckduckgo.com/ip3/munin.ycnet.cz.ico",
     "slug": "serv-munin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
@@ -62,16 +63,18 @@
     "timeWeek": 880,
     "timeMonth": 852,
     "timeYear": 850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 1
+    }
   },
   {
     "name": "[SERV] mrtg",
     "url": "https://mrtg.ycnet.cz",
     "icon": "https://icons.duckduckgo.com/ip3/mrtg.ycnet.cz.ico",
     "slug": "serv-mrtg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,7 +83,9 @@
     "timeWeek": 730,
     "timeMonth": 827,
     "timeYear": 772,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "[SERV] smokeping",
@@ -407,11 +412,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-w520",
     "status": "up",
-    "uptime": "70.36%",
+    "uptime": "70.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.09%",
-    "uptimeYear": "70.36%",
+    "uptimeMonth": "76.26%",
+    "uptimeYear": "70.38%",
     "time": 2745,
     "timeDay": 880,
     "timeWeek": 1257,
