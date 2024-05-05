@@ -87,19 +87,19 @@
     "url": "https://smokeping.ycnet.cz",
     "icon": "https://icons.duckduckgo.com/ip3/smokeping.ycnet.cz.ico",
     "slug": "serv-smokeping",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 895,
-    "timeWeek": 825,
-    "timeMonth": 773,
-    "timeYear": 782,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1078,
+    "timeDay": 13252,
+    "timeWeek": 3923,
+    "timeMonth": 1549,
+    "timeYear": 1078,
     "dailyMinutesDown": {
-      "2024-05-05": 1
+      "2024-05-05": 9
     }
   },
   {
