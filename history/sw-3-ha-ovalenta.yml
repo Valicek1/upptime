@@ -1,7 +1,7 @@
 url: https://ovalenta.sw3.cz
-status: up
-code: 200
-responseTime: 2325
-lastUpdated: 2024-06-04T15:46:41.341Z
+status: down
+code: 502
+responseTime: 615
+lastUpdated: 2024-06-04T17:53:23.291Z
 startTime: 2024-02-12T09:23:15.763Z
 generator: Upptime <https://github.com/upptime/upptime>
