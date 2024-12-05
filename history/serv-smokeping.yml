@@ -1,7 +1,7 @@
 url: https://smokeping.ycnet.cz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-05T03:42:52.010Z
+status: up
+code: 200
+responseTime: 792
+lastUpdated: 2024-12-05T06:32:58.222Z
 startTime: 2024-02-15T01:34:17.085Z
 generator: Upptime <https://github.com/upptime/upptime>
