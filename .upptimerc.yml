@@ -63,7 +63,7 @@ sites:
     port: 22
 
   - name: Test_W520
-    url: w520.dyn.sw3.cz
+    url: http://w520.dyn.sw3.cz:8080/
     port: 8080
     ipv6: true
 
