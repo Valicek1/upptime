@@ -63,7 +63,7 @@ sites:
     port: 22
 
   - name: Test_W520
-    url: bkp-w520.duckdns.org
+    url: w520.dyn.sw3.cz
     port: 8080
     ipv6: true
 
