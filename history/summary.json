@@ -14,7 +14,7 @@
     "timeDay": 1009,
     "timeWeek": 947,
     "timeMonth": 976,
-    "timeYear": 943,
+    "timeYear": 944,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 823,
     "timeWeek": 1012,
     "timeMonth": 1026,
-    "timeYear": 1311,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2024-12-05": 189,
       "2024-11-28": 23,
@@ -95,7 +95,7 @@
     "timeDay": 992,
     "timeWeek": 898,
     "timeMonth": 932,
-    "timeYear": 827,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2024-12-05": 171,
       "2024-10-10": 175
@@ -174,7 +174,7 @@
     "timeDay": 684,
     "timeWeek": 663,
     "timeMonth": 681,
-    "timeYear": 654,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2025-02-07": 18,
       "2024-12-05": 169,
@@ -216,7 +216,7 @@
     "timeDay": 876,
     "timeWeek": 828,
     "timeMonth": 870,
-    "timeYear": 1009,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2025-04-07": 234,
       "2024-10-11": 27,
@@ -281,7 +281,7 @@
     "timeDay": 792,
     "timeWeek": 812,
     "timeMonth": 838,
-    "timeYear": 835,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2024-05-13": 1432,
       "2024-05-12": 968
@@ -426,7 +426,7 @@
     "timeDay": 641,
     "timeWeek": 749,
     "timeMonth": 744,
-    "timeYear": 2097,
+    "timeYear": 2100,
     "dailyMinutesDown": {
       "2025-02-04": 16,
       "2025-02-01": 30,
@@ -569,18 +569,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/w520.dyn.sw3.cz.ico",
     "slug": "test-w520",
     "status": "down",
-    "uptime": "23.86%",
+    "uptime": "23.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.12%",
+    "uptimeYear": "16.10%",
     "time": 2794,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2785,
+    "timeYear": 2792,
     "dailyMinutesDown": {
-      "2025-04-15": 1,
+      "2025-04-15": 122,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -987,7 +987,7 @@
     "timeDay": 164,
     "timeWeek": 155,
     "timeMonth": 154,
-    "timeYear": 128,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2024-12-05": 160,
       "2024-11-28": 18,
