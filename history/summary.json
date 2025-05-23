@@ -4,10 +4,10 @@
     "url": "https://kuma.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/kuma.sw3.cz.ico",
     "slug": "serv-uptime-kuma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1003,
@@ -15,7 +15,9 @@
     "timeWeek": 949,
     "timeMonth": 927,
     "timeYear": 952,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-23": 1
+    }
   },
   {
     "name": "[SERV] Radio",
@@ -170,7 +172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hppro.sw3.cz.ico",
     "slug": "sw-3-hppro",
     "status": "up",
-    "uptime": "96.38%",
+    "uptime": "96.39%",
     "uptimeDay": "98.70%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.83%",
@@ -217,12 +219,12 @@
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 1063,
     "timeDay": 873,
     "timeWeek": 851,
-    "timeMonth": 842,
+    "timeMonth": 846,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2025-04-23": 16,
@@ -279,10 +281,10 @@
     "url": "https://lemra.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/lemra.sw3.cz.ico",
     "slug": "sw-3-lemra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 826,
@@ -290,16 +292,18 @@
     "timeWeek": 864,
     "timeMonth": 848,
     "timeYear": 844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-23": 1
+    }
   },
   {
     "name": "[SW3] LemraDNS",
     "url": "https://lemradns.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/lemradns.sw3.cz.ico",
     "slug": "sw-3-lemra-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -308,7 +312,9 @@
     "timeWeek": 779,
     "timeMonth": 755,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-23": 1
+    }
   },
   {
     "name": "[SW3] Šmírák",
@@ -319,12 +325,12 @@
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 896,
     "timeDay": 998,
     "timeWeek": 1004,
-    "timeMonth": 936,
+    "timeMonth": 935,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2025-04-23": 15,
@@ -523,17 +529,16 @@
     "slug": "yc-blekota",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.94%",
     "time": 126,
     "timeDay": 139,
     "timeWeek": 133,
     "timeMonth": 129,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-05-23": 14,
       "2024-12-05": 165,
       "2024-10-10": 169
     }
@@ -571,7 +576,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/w520.dyn.sw3.cz.ico",
     "slug": "test-w520",
     "status": "down",
-    "uptime": "21.89%",
+    "uptime": "21.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -582,7 +587,7 @@
     "timeMonth": 0,
     "timeYear": 3502,
     "dailyMinutesDown": {
-      "2025-05-23": 643,
+      "2025-05-23": 1020,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
