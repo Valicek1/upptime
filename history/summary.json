@@ -4,19 +4,19 @@
     "url": "https://kuma.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/kuma.sw3.cz.ico",
     "slug": "serv-uptime-kuma",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1003,
-    "timeDay": 1031,
-    "timeWeek": 949,
-    "timeMonth": 927,
+    "timeDay": 897,
+    "timeWeek": 926,
+    "timeMonth": 922,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2025-05-23": 1
+      "2025-05-23": 21
     }
   },
   {
@@ -281,19 +281,19 @@
     "url": "https://lemra.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/lemra.sw3.cz.ico",
     "slug": "sw-3-lemra",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 826,
-    "timeDay": 864,
-    "timeWeek": 864,
-    "timeMonth": 848,
-    "timeYear": 844,
+    "timeDay": 783,
+    "timeWeek": 844,
+    "timeMonth": 844,
+    "timeYear": 843,
     "dailyMinutesDown": {
-      "2025-05-23": 1
+      "2025-05-23": 21
     }
   },
   {
@@ -301,19 +301,19 @@
     "url": "https://lemradns.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/lemradns.sw3.cz.ico",
     "slug": "sw-3-lemra-dns",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 819,
-    "timeWeek": 779,
-    "timeMonth": 755,
-    "timeYear": 787,
+    "time": 790,
+    "timeDay": 706,
+    "timeWeek": 756,
+    "timeMonth": 750,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2025-05-23": 1
+      "2025-05-23": 20
     }
   },
   {
@@ -436,7 +436,7 @@
     "timeDay": 624,
     "timeWeek": 613,
     "timeMonth": 738,
-    "timeYear": 1917,
+    "timeYear": 1920,
     "dailyMinutesDown": {
       "2025-05-23": 15,
       "2025-05-05": 21,
@@ -576,7 +576,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/w520.dyn.sw3.cz.ico",
     "slug": "test-w520",
     "status": "down",
-    "uptime": "21.88%",
+    "uptime": "21.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -587,7 +587,7 @@
     "timeMonth": 0,
     "timeYear": 3502,
     "dailyMinutesDown": {
-      "2025-05-23": 1020,
+      "2025-05-23": 1040,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
