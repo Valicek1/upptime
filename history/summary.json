@@ -6,9 +6,9 @@
     "slug": "serv-uptime-kuma",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.94%",
     "time": 950,
     "timeDay": 1023,
@@ -16,7 +16,6 @@
     "timeMonth": 947,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2025-09-03": 9,
       "2025-08-26": 17,
       "2025-08-04": 280,
       "2025-05-23": 21
@@ -28,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/radio.nothinghere.ga.ico",
     "slug": "serv-radio",
     "status": "down",
-    "uptime": "84.34%",
+    "uptime": "84.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.69%",
+    "uptimeYear": "76.66%",
     "time": 1290,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1110,
     "dailyMinutesDown": {
-      "2025-09-03": 1421,
+      "2025-09-04": 113,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -319,7 +319,7 @@
     "status": "up",
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.91%",
+    "uptimeWeek": "95.37%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.44%",
     "time": 672,
@@ -352,9 +352,9 @@
     "slug": "sw-3-lemra",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 845,
     "timeDay": 757,
@@ -362,7 +362,6 @@
     "timeMonth": 794,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2025-09-03": 8,
       "2025-08-26": 16,
       "2025-05-23": 21
     }
@@ -374,9 +373,9 @@
     "slug": "sw-3-lemra-dns",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 786,
     "timeDay": 657,
@@ -384,7 +383,6 @@
     "timeMonth": 887,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2025-09-03": 8,
       "2025-08-26": 16,
       "2025-05-23": 20
     }
@@ -484,8 +482,7 @@
       "2024-12-05": 166,
       "2024-11-18": 29,
       "2024-10-11": 70,
-      "2024-10-10": 171,
-      "2024-09-04": 95
+      "2024-10-10": 171
     }
   },
   {
@@ -599,8 +596,7 @@
       "2024-12-05": 163,
       "2024-11-18": 28,
       "2024-10-11": 53,
-      "2024-10-10": 168,
-      "2024-09-04": 93
+      "2024-10-10": 168
     }
   },
   {
@@ -620,7 +616,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-03": 1421,
+      "2025-09-04": 114,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -983,8 +980,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
