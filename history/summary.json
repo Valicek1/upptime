@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radio.nothinghere.ga.ico",
     "slug": "serv-radio",
     "status": "down",
-    "uptime": "84.04%",
+    "uptime": "84.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 1111,
     "dailyMinutesDown": {
-      "2025-09-06": 105,
+      "2025-09-06": 113,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -620,7 +620,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 106,
+      "2025-09-06": 113,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
