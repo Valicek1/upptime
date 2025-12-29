@@ -5,9 +5,7 @@ repo: upptime
 sites:
   - name: "[SERV] Uptime Kuma"
     url: https://kuma.sw3.cz
-  - name: "[SERV] Radio"
-    url: https://radio.nothinghere.ga/
-
+  
   - name: "[SERV] munin"
     url: https://munin.ycnet.cz
     headers:
