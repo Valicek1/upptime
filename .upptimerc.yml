@@ -26,8 +26,12 @@ sites:
 
   - name: "[SW3] Flákač"
     url: https://flakac.sw3.cz
+  - name: "[SW3] Gambler"
+    url: https://gambler.sw3.cz
   - name: "[SW3] Hppro"
     url: https://hppro.sw3.cz
+  - name: "[SW3] INS"
+    url: https://ins.sw3.cz
   - name: "[SW3] Ispconfig"
     url: https://config.sw3.cz
   - name: "[SW3] Kripl"
@@ -61,36 +65,6 @@ sites:
     check: "tcp-ping"
     url: nemehlo.ycnet.cz
     port: 22
-
-  - name: Test_W520
-    url: http://w520.dyn.sw3.cz:8080/
-    port: 8080
-    ipv6: true
-
-  - name: "[STORJ] kripl:storageBlb"
-    check: "tcp-ping"
-    url: kripl.sw3.cz
-    port: 28969
-
-  - name: "[STORJ] kripl:storage500"
-    check: "tcp-ping"
-    url: kripl.sw3.cz
-    port: 28968
-
-  - name: "[STORJ] kripl:storage800"
-    check: "tcp-ping"
-    url: kripl.sw3.cz
-    port: 28967 
-
-  - name: "[STORJ] zmetek:storagenode1"
-    check: "tcp-ping"
-    url: zmetek.sw3.cz
-    port: 28967
-
-  - name: "[STORJ] zmetek:storagenode2"
-    check: "tcp-ping"
-    url: zmetek.sw3.cz
-    port: 28968
 
 status-website:
   baseUrl: /upptime
