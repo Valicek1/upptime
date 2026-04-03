@@ -54,6 +54,11 @@ sites:
   - name: "[SW3] ha-ovalenta"
     url: https://ovalenta.sw3.cz
 
+  - name: "[SW3] Gambler"
+    url: "https://ins.sw3.cz/ping.php?host=gambler"
+  - name: "[SW3] W520"
+    url: "https://ins.sw3.cz/ping.php?host=w520"
+
   - name: "[YC] Blekota"
     check: "tcp-ping"
     url: blekota.ycnet.cz
