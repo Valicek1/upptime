@@ -93,17 +93,17 @@
     "url": "https://smokeping.ycnet.cz",
     "icon": "https://icons.duckduckgo.com/ip3/smokeping.ycnet.cz.ico",
     "slug": "serv-smokeping",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.86%",
-    "time": 1095,
-    "timeDay": 28081,
-    "timeWeek": 7603,
-    "timeMonth": 3273,
-    "timeYear": 1165,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.85%",
+    "time": 1200,
+    "timeDay": 36184,
+    "timeWeek": 12580,
+    "timeMonth": 4761,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2025-07-21": 18,
       "2026-01-05": 41,
@@ -111,7 +111,7 @@
       "2026-04-08": 190,
       "2026-05-03": 72,
       "2026-05-04": 236,
-      "2026-06-07": 11
+      "2026-06-07": 76
     }
   },
   {
@@ -246,16 +246,16 @@
     "url": "https://config.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/config.sw3.cz.ico",
     "slug": "sw-3-ispconfig",
-    "status": "down",
-    "uptime": "96.09%",
-    "uptimeDay": "82.42%",
-    "uptimeWeek": "44.55%",
-    "uptimeMonth": "55.23%",
-    "uptimeYear": "94.14%",
+    "status": "up",
+    "uptime": "96.08%",
+    "uptimeDay": "77.90%",
+    "uptimeWeek": "44.56%",
+    "uptimeMonth": "55.08%",
+    "uptimeYear": "94.12%",
     "time": 994,
-    "timeDay": 1088,
-    "timeWeek": 1090,
-    "timeMonth": 1264,
+    "timeDay": 1041,
+    "timeWeek": 1070,
+    "timeMonth": 1250,
     "timeYear": 1028,
     "dailyMinutesDown": {
       "2025-09-30": 18,
@@ -284,7 +284,7 @@
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1349,
-      "2026-06-07": 253
+      "2026-06-07": 318
     }
   },
   {
@@ -424,16 +424,16 @@
     "url": "https://smirak.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/smirak.sw3.cz.ico",
     "slug": "sw-3-smirak",
-    "status": "down",
+    "status": "up",
     "uptime": "97.07%",
-    "uptimeDay": "82.77%",
-    "uptimeWeek": "44.60%",
-    "uptimeMonth": "32.21%",
-    "uptimeYear": "93.71%",
+    "uptimeDay": "78.25%",
+    "uptimeWeek": "44.61%",
+    "uptimeMonth": "32.06%",
+    "uptimeYear": "93.69%",
     "time": 962,
-    "timeDay": 1094,
-    "timeWeek": 883,
-    "timeMonth": 932,
+    "timeDay": 936,
+    "timeWeek": 862,
+    "timeMonth": 920,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2025-11-06": 990,
@@ -461,7 +461,7 @@
       "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1356,
-      "2026-06-07": 248
+      "2026-06-07": 313
     }
   },
   {
