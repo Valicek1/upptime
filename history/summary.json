@@ -205,10 +205,10 @@
     "url": "https://hppro.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/hppro.sw3.cz.ico",
     "slug": "sw-3-hppro",
-    "status": "up",
+    "status": "down",
     "uptime": "97.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "88.62%",
     "uptimeYear": "98.80%",
     "time": 656,
@@ -227,7 +227,8 @@
       "2026-06-14": 678,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
-      "2026-06-11": 1426
+      "2026-06-11": 1426,
+      "2026-07-04": 1
     }
   },
   {
@@ -260,7 +261,7 @@
     "uptime": "96.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.14%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "94.12%",
     "time": 1013,
     "timeDay": 1506,
@@ -443,7 +444,7 @@
     "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.15%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "93.69%",
     "time": 955,
     "timeDay": 1123,
