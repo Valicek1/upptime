@@ -98,12 +98,12 @@
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.18%",
+    "uptimeMonth": "97.19%",
     "uptimeYear": "99.22%",
     "time": 1214,
     "timeDay": 768,
     "timeWeek": 797,
-    "timeMonth": 964,
+    "timeMonth": 972,
     "timeYear": 1323,
     "dailyMinutesDown": {
       "2026-01-05": 41,
@@ -179,10 +179,10 @@
     "url": "https://gambler.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/gambler.sw3.cz.ico",
     "slug": "sw-3-gambler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 612,
@@ -194,7 +194,8 @@
       "2026-01-08": 25,
       "2026-02-26": 53,
       "2026-03-09": 218,
-      "2026-04-19": 283
+      "2026-04-19": 283,
+      "2026-07-23": 1
     }
   },
   {
@@ -237,11 +238,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ins.sw3.cz.ico",
     "slug": "sw-3-ins",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 709,
     "timeDay": 611,
     "timeWeek": 686,
@@ -258,11 +259,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/config.sw3.cz.ico",
     "slug": "sw-3-ispconfig",
     "status": "down",
-    "uptime": "96.12%",
+    "uptime": "96.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.83%",
-    "uptimeMonth": "95.36%",
-    "uptimeYear": "93.74%",
+    "uptimeWeek": "75.13%",
+    "uptimeMonth": "94.28%",
+    "uptimeYear": "93.65%",
     "time": 1027,
     "timeDay": 0,
     "timeWeek": 1264,
@@ -296,7 +297,7 @@
       "2026-05-23": 1440,
       "2026-05-22": 1349,
       "2026-06-07": 318,
-      "2026-07-23": 216,
+      "2026-07-23": 690,
       "2026-07-22": 1440,
       "2026-07-21": 377
     }
@@ -306,11 +307,11 @@
     "url": "https://kripl.sw3.cz/test.html",
     "icon": "https://icons.duckduckgo.com/ip3/kripl.sw3.cz.ico",
     "slug": "sw-3-kripl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.17%",
     "time": 763,
     "timeDay": 609,
@@ -341,7 +342,8 @@
       "2026-06-10": 103,
       "2026-06-18": 251,
       "2026-06-29": 365,
-      "2026-07-11": 236
+      "2026-07-11": 236,
+      "2026-07-23": 3
     }
   },
   {
@@ -446,11 +448,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smirak.sw3.cz.ico",
     "slug": "sw-3-smirak",
     "status": "down",
-    "uptime": "96.29%",
+    "uptime": "96.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.89%",
-    "uptimeYear": "91.44%",
+    "uptimeMonth": "71.81%",
+    "uptimeYear": "91.35%",
     "time": 952,
     "timeDay": 0,
     "timeWeek": 0,
@@ -483,7 +485,7 @@
       "2026-05-16": 1440,
       "2026-05-15": 1356,
       "2026-06-07": 313,
-      "2026-07-23": 216,
+      "2026-07-23": 690,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -564,11 +566,11 @@
     "url": "https://ha.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/ha.sw3.cz.ico",
     "slug": "sw-3-hass",
-    "status": "up",
-    "uptime": "96.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.64%",
+    "status": "down",
+    "uptime": "96.65%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "93.16%",
     "time": 969,
     "timeDay": 455,
@@ -622,7 +624,8 @@
       "2026-06-10": 98,
       "2026-06-18": 247,
       "2026-06-29": 365,
-      "2026-07-11": 232
+      "2026-07-11": 232,
+      "2026-07-23": 2
     }
   },
   {
@@ -659,10 +662,10 @@
     "url": "https://ins.sw3.cz/ping.php?host=gambler",
     "icon": "https://icons.duckduckgo.com/ip3/ins.sw3.cz.ico",
     "slug": "sw-3-gambler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 612,
@@ -674,7 +677,8 @@
       "2026-01-08": 25,
       "2026-02-26": 53,
       "2026-03-09": 218,
-      "2026-04-19": 283
+      "2026-04-19": 283,
+      "2026-07-23": 1
     }
   },
   {
@@ -682,10 +686,10 @@
     "url": "https://ins.sw3.cz/ping.php?host=w520",
     "icon": "https://icons.duckduckgo.com/ip3/ins.sw3.cz.ico",
     "slug": "sw-3-w520",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 405,
@@ -695,7 +699,8 @@
     "timeYear": 405,
     "dailyMinutesDown": {
       "2026-04-19": 64,
-      "2026-05-02": 137
+      "2026-05-02": 137,
+      "2026-07-23": 1
     }
   },
   {
