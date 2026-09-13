@@ -14,7 +14,7 @@
     "timeDay": 1268,
     "timeWeek": 1549,
     "timeMonth": 1564,
-    "timeYear": 1145,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2025-10-09": 18,
       "2025-10-25": 21,
@@ -456,10 +456,10 @@
     "url": "https://smirak.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/smirak.sw3.cz.ico",
     "slug": "sw-3-smirak",
-    "status": "up",
+    "status": "down",
     "uptime": "95.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.25%",
     "time": 955,
@@ -514,7 +514,8 @@
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
-      "2026-07-14": 140
+      "2026-07-14": 140,
+      "2026-09-13": 1
     }
   },
   {
