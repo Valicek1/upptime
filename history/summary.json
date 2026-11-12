@@ -122,7 +122,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.58%",
+    "uptimeYear": "95.68%",
     "time": 1400,
     "timeDay": 1220,
     "timeWeek": 1577,
@@ -417,10 +417,10 @@
     "url": "https://smirak.sw3.cz",
     "icon": "https://icons.duckduckgo.com/ip3/smirak.sw3.cz.ico",
     "slug": "sw-3-smirak",
-    "status": "up",
+    "status": "down",
     "uptime": "95.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.64%",
     "time": 952,
@@ -474,7 +474,8 @@
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 140,
-      "2026-09-13": 252
+      "2026-09-13": 252,
+      "2026-11-12": 1
     }
   },
   {
@@ -550,7 +551,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.89%",
+    "uptimeYear": "95.00%",
     "time": 916,
     "timeDay": 586,
     "timeWeek": 617,
